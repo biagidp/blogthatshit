@@ -1,0 +1,2 @@
+#!/bin/bash
+echo >> "db/migrations/$(date +"%Y%m%d%H%M%S")-$1.js"
